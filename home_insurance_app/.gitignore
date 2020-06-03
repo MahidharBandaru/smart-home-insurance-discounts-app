@@ -4,7 +4,7 @@
 *.pyc
 *.swp
 .DS_Store
-/constants.dart
+
 .atom/
 .buildlog/
 .history
@@ -44,7 +44,8 @@ app.*.map.json
 !/packages/flutter_tools/test/data/dart_dependencies_test/**/.packages
 
 
-
+/constant.dart
 
 home_insurance_app/android/app/src/main/res/*
+home_insurance_app/lib/components/constant.dart
 
