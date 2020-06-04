@@ -48,4 +48,8 @@ app.*.map.json
 
 home_insurance_app/android/app/src/main/res/*
 home_insurance_app/lib/components/constant.dart
+home_insurance_app/android/app/google-services.json
+constants.dart
+google-services.json
+
 
