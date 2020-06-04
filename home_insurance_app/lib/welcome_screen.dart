@@ -11,9 +11,6 @@ import 'package:homeinsuranceapp/constants.dart';
 
 GoogleSignIn _googleSignIn = GoogleSignIn(scopes: ['profile', 'email']);
 Class id = new Class();
-
-
-
 class WelcomeScreen extends StatefulWidget {
   static const String id = 'welcome_screen';
 
