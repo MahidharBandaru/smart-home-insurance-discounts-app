@@ -39,9 +39,12 @@ dependencies:
   flutter_dotenv: ^2.1.0
   flutter_config: ^1.0.7
 
+
 dev_dependencies:
+  flutter_config: ^1.0.7
   flutter_test:
     sdk: flutter
+
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
