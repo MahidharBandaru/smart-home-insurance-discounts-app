@@ -40,5 +40,5 @@ home_insurance_app/lib/components/constant.dart
 home_insurance_app/android/app/google-services.json
 constants.dart
 google-services.json
-constant.env
+.env
 
